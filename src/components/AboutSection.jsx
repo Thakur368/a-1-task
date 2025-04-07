@@ -9,10 +9,15 @@ export default function AboutSection() {
         />
         <div className="w-[350px]">
         <p className="text-sm text-gray-700 leading-relaxed">
-          We are a team of dedicated professionals driven by creativity, innovation,
-          and a passion for exceptional design. With years of expertise in mobile
-          application and website design, we specialize in transforming ideas into
-          captivating digital experiences that seamlessly combine functionality and aesthetics...
+        I'm a highly driven looking for an entry-level software 
+        development career where I can put my coding 
+        expertise, problem-solving skills, and love of innovation 
+        to use. Passionate about producing superior 
+        solutions to progress. 
+        Looking for internship opportunities primarily in 
+        Frontend Development, but also open to Full-stack roles. Eager to  
+        learning improving skills, and contributing to innovative  
+        projects in a collaborative environment.
         </p>
          </div>
       </div>
