@@ -3,7 +3,7 @@ export default function AboutSection() {
       <div className="p-4">
         <h2 className="text-lg font-semibold mb-3">About Us</h2>
         <img
-          src="images/123.jpg" 
+          src="https://drive.google.com/file/d/1ubbue40bJIr23thlfj7NYjRSPA4qETrS/view?usp=drive_link" 
           alt="About"
           className="w-[350px] h-[400px] rounded-lg mb-4"
         />

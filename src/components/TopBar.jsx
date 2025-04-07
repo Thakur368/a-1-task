@@ -5,7 +5,7 @@ export default function TopBar({hide}) {
       <div className="bg-purple-800 text-white px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <img
-            src="images/123.jpg"
+            src="https://drive.google.com/file/d/1ubbue40bJIr23thlfj7NYjRSPA4qETrS/view?usp=drive_link"
             alt="avatar"
             className="rounded-full w-10 h-10"
           />
